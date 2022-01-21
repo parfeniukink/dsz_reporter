@@ -1,3 +1,2 @@
-release: python manage.py collectstatic
 release: python manage.py migrate
-web: gunicorn config.wsgi:application
+web: python manage.py runserver 0.0.0.0:80
