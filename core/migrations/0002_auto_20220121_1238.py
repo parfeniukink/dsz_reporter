@@ -113,7 +113,7 @@ source = [
     "http://www.if.gov.ua",
     "http://koda.gov.ua",
     "http://www.kr-admin.gov.ua",
-    "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%83%D1%80%D0%B5%D0%B8%D0%B7%D0%BC",
+    "http://www.loda.gov.ua",
     "http://loda.gov.ua",
     "http://www.mk.gov.ua",
     "https://oda.odessa.gov.ua",

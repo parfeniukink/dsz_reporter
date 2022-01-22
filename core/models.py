@@ -14,6 +14,7 @@ class Report(models.Model):
         ("LIVE", "Live"),
         ("BLOCKED", "Blocked"),
         ("RESTRICTED", "Restricted"),
+        ("HACKED", "Hacked"),
     )
 
     date = models.DateField()
